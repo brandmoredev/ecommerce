@@ -325,3 +325,4 @@ If you have any issues or questions, reach out to us on [Discord](https://discor
 1. payload-types.ts - add type
 2. payload globals - add field
 3. _graphql globals - fetch data
+   
